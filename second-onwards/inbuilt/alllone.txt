@@ -1,0 +1,15 @@
+es5
+var a=10
+var b="my age is a" + a 
+
+"my age is a 10
+
+es6
+var a=10
+var b= `my age is ${a}`
+backtic key is the key under the scape key
+"my age is a 10
+
+this file is for node 
+ this file is for node 
+ 
